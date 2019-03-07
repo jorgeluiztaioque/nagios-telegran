@@ -65,8 +65,8 @@ import argparse
 import json
 import requests
 
-token="276049022:AAFse4JMCYmwfRYh9Pr45Z6SvzSe12_2mlc"
-contact="-201690907"
+token=""
+contact=""
 
 def parse_args():
     ''' function for parsing arguments '''
